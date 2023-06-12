@@ -1,3 +1,8 @@
+# This file contains a function for efficiently multiplying two sparse matrices together. 
+# The function takes advantage of the sparsity of the matrices, where most elements are zero, to reduce the number of computations performed. 
+# It iterates over the non-zero elements in the matrices and accumulates the product in a result matrix. 
+# The function returns the resulting matrix of the multiplication. If the matrices cannot be multiplied, an empty matrix `[[]]` is returned.
+
 def sparse_matrix_multiplication(matrix_a, matrix_b):
     # Check if matrices can be multiplied
     if len(matrix_a) == 0 or len(matrix_b) == 0 or len(matrix_a[0]) != len(matrix_b):
