@@ -4,17 +4,17 @@ This folder contains Python scripts that implement and explore several important
 
 ## Scripts
 
-1. `disease_probability.py` - This script includes a function that calculates the probability of an individual having or not having a disease given the result of a test. The computation takes into account the test's accuracy and the prevalence of the disease in the population, based on Bayes' theorem, and the test's sensitivity and specificity.
+1. [`disease_probability.py`](./disease_probability.py) - This script includes a function that calculates the probability of an individual having or not having a disease given the result of a test. The computation takes into account the test's accuracy and the prevalence of the disease in the population, based on Bayes' theorem, and the test's sensitivity and specificity.
 
-2. `distance_metrics.py` - Contains a class `Metrics` with methods to calculate different types of distances and similarities between two numeric vectors or sets. Metrics included are:
+2. [`distance_metrics.py`](distance_metrics.py) - Contains a class `Metrics` with methods to calculate different types of distances and similarities between two numeric vectors or sets. Metrics included are:
    - Euclidean Distance
    - Manhattan Distance
    - Cosine Similarity
    - Jaccard Similarity
 
-3. `sparse_matrix_multiplication.py` - Includes a function for efficiently multiplying two sparse matrices together. The function leverages the sparsity of the matrices to reduce the number of computations performed.
+3. [`sparse_matrix_multiplication.py`](./sparse_matrix_multiplication.py) - Includes a function for efficiently multiplying two sparse matrices together. The function leverages the sparsity of the matrices to reduce the number of computations performed.
 
-4. `statistics_calculator.py` - Contains a function `get_statistics` which calculates the following statistical measures on a list of numbers:
+4. [`statistics_calculator.py`](./statistics_calculator.py) - Contains a function `get_statistics` which calculates the following statistical measures on a list of numbers:
    - Mean
    - Median
    - Mode
