@@ -13,6 +13,8 @@ This repository is primarily a chronicle of my learning journey, capturing my pr
 Below are some resources that I have found to be invaluable in my own learning journey. They cover various aspects of machine learning, from basic introductions to more advanced topics. These resources are freely available to anyone interested in the subject.
 
 
+- **StatQuest with Josh Starmer** - [link](https://www.youtube.com/@statquest) - StatQuest not only demystifies complex topics in Statistics and Machine Learning, but it is also notably beneficial in helping understand a wide variety of machine learning algorithms. By breaking down these algorithms into comprehensible segments, it enhances your grasp, making these intricate processes more accessible and easier to understand.
+
 - **Google's Machine Learning Crash Course** - [link](https://developers.google.com/machine-learning/crash-course) - This is a fast-paced, practical introduction to machine learning using TensorFlow. The course includes video lectures, text guides, and hands-on practice exercises.
 
 - **MIT's Introduction to Deep Learning** - [link](http://introtodeeplearning.com/) - This course provides an introduction to deep learning, which is a powerful set of techniques driving innovations in areas like image recognition, speech and natural language processing, and more.
